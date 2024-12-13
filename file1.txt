@@ -1,7 +1,8 @@
+new line for gui
 kjhgfghjkl;
 untasting trryu123
 hgfghjkl.
 Add line
 commit test
 new branch line
-new line for gui
+
