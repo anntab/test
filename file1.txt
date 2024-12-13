@@ -1,5 +1,6 @@
-new line for gui
-kjhgfghjkl;
+182873823982375
+jhgfghjkl;
+>>>>>>> second_branch
 untasting trryu123
 hgfghjkl.
 Add line
